@@ -26,7 +26,7 @@ PC System with Linux OS, NS2 software.
   16. At the particular time call the finish procedure.
   17. Stop the program.
 
-# PROGRAM:
+# PROGRAM
 ```
 # Create a simulator object
 set ns [new Simulator]
